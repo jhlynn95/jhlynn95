@@ -1,5 +1,3 @@
-# README.md
-
 #  Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Im <span style="color:#0088FF; font-weight: bold">Jess</span>
 
 <p align="left"> <a style="margin-right: 5px" href="https://www.linkedin.com/in/jessica-hickman-535407221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
