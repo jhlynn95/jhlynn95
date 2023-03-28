@@ -6,7 +6,7 @@
 ## <span style="color:#ff49f6; font-weight: bold">Full-Stack Software Developer</span>
 
 Hello I currently finished my Full Stack Development course at UCR. I began this journey because ive always been tech savy and decided it was time to follow what
-What i enjoyed doing and explore the coding world!
+I enjoyed doing and explore the coding world! im excited to continue working in this field and growing.
 
 - 🌍  I'm based in **U.S**
 -    See my portfolio at **[My Portfolio]()**
